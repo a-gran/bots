@@ -1,11 +1,18 @@
 {
-  "name": "tgb-gran-test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+    "name": "tgb-gran-test",
+    "version": "1.0.0",
+    "description": "bot, telegram, test",
+    "main": "index.js",
+    "scripts": {
+        "test": ""
+    },
+    "author": "Aristarh Gran <awebdeff@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "dotenv": "^16.0.3",
+        "telegraf": "^4.10.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
 }
